@@ -1,0 +1,9 @@
+th,
+td {
+  border-bottom: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+.form-Layout {
+  align: left;
+}
