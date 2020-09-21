@@ -1,5 +1,5 @@
 import React , {useState , useEffect} from 'react';
-import classes from './Clock.module.css'
+import classes from './clock.module.css'
 const Clock = () =>{
     const t = new Date().toLocaleTimeString();
     const [localTime,setLocalTime]=useState(t)
